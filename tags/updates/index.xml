@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Updates on Philip Mitroi</title>
+    <link>http://philipmitroi.github.io/tags/updates/index.xml</link>
+    <description>Recent content in Updates on Philip Mitroi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Philip Mitroi</copyright>
+    <atom:link href="http://philipmitroi.github.io/tags/updates/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Some Updates</title>
+      <link>http://philipmitroi.github.io/portfolio/update1/</link>
+      <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>http://philipmitroi.github.io/portfolio/update1/</guid>
+      <description>&lt;p&gt;You probably noticed by now that my images don&amp;rsquo;t scale. This is the next step in the development of this website. Currently there is no native way to implmenet dynamic scaling to images in Hugo, the site generator I am using. Luckily for me, the internet hasn&amp;rsquo;t slept on this.&lt;/p&gt;
+
+&lt;p&gt;In the next week, I plan to implement one of these two gallery solutions to the site for a better viewing experience. A gallery will allow me to consolidate more work in one page, and strengthen the intention of a personal website as a hub for my work, rather than stretching content across different platforms and sites.&lt;/p&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.liwen.id.au/photoswipe/&#34;&gt;https://www.liwen.id.au/photoswipe/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://github.com/icecreammatt/hugo-gallery&#34;&gt;https://github.com/icecreammatt/hugo-gallery&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Please feel free to contact me with advice regarding this devellopment. As a novice web dev, feedback is appreciated.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
