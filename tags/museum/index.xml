@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Museum on Philip Mitroi</title>
-    <link>https://philipmitroi.github.io/tags/museum/index.xml</link>
+    <link>/philipmitroi.com/tags/museum/index.xml</link>
     <description>Recent content in Museum on Philip Mitroi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Philip Mitroi</copyright>
-    <atom:link href="https://philipmitroi.github.io/tags/museum/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/philipmitroi.com/tags/museum/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Musée des beaux-arts de Montréal</title>
-      <link>https://philipmitroi.github.io/portfolio/musee/</link>
+      <link>/philipmitroi.com/portfolio/musee/</link>
       <pubDate>Sun, 05 Jun 2016 00:00:00 +0000</pubDate>
       
-      <guid>https://philipmitroi.github.io/portfolio/musee/</guid>
+      <guid>/philipmitroi.com/portfolio/musee/</guid>
       <description>&lt;p&gt;Snapshot of Montréal
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://philipmitroi.github.io/img/portfolio/mtl.jpg&#34; alt=&#34;mtl&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;philipmitroi.com/img/portfolio/mtl.jpg&#34; alt=&#34;mtl&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In a visit to Montréeal, I snapped this shot in the third floor of the Musée des beaux-arts.
 &lt;a href=&#34;https://www.flickr.com/photos/philipmitroi/19425608906/&#34;&gt;https://www.flickr.com/photos/philipmitroi/19425608906/&lt;/a&gt;&lt;/p&gt;</description>
