@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Victoria on Philip Mitroi</title>
+    <link>https://philipmitroi.com/tags/victoria/index.xml</link>
+    <description>Recent content in Victoria on Philip Mitroi</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2017 Philip Mitroi</copyright>
+    <atom:link href="https://philipmitroi.com/tags/victoria/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Fisherman&#39;s Warf</title>
+      <link>https://philipmitroi.com/portfolio/victoriadeta/</link>
+      <pubDate>Sat, 04 Mar 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://philipmitroi.com/portfolio/victoriadeta/</guid>
+      <description>&lt;p&gt;A colorful detail of a house on Fisherman&amp;rsquo;s Warf, in Victoria.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&#34;https://philipmitroi.com/img/portfolio/vicdet.jpg&#34; alt=&#34;vicdet&#34; /&gt;&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
