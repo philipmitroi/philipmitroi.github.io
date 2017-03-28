@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Philip Mitroi</title>
-    <link>http://philipmitroi.github.io/tags/blog/index.xml</link>
+    <link>http://philipmitroi.githu.io/tags/blog/index.xml</link>
     <description>Recent content in Blog on Philip Mitroi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2017 Philip Mitroi</copyright>
-    <atom:link href="http://philipmitroi.github.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://philipmitroi.githu.io/tags/blog/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Some Updates</title>
-      <link>http://philipmitroi.github.io/portfolio/update1/</link>
+      <link>http://philipmitroi.githu.io/portfolio/update1/</link>
       <pubDate>Fri, 17 Mar 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://philipmitroi.github.io/portfolio/update1/</guid>
-      <description>&lt;p&gt;You probably noticed by now that my images don&amp;rsquo;t scale. This is the next step in the development of this website. Currently there is no native way to implmenet dynamic scaling to images in Hugo, the site generator I am using. Luckily for me, the internet hasn&amp;rsquo;t slept on this.&lt;/p&gt;
+      <guid>http://philipmitroi.githu.io/portfolio/update1/</guid>
+      <description>&lt;p&gt;You probably noticed by now that my images don&amp;rsquo;t scale. This is the next step in the devellopment of this website, I am not the world&amp;rsquo;s greatest programmer, nor do I have the most experience deploying to the web, although design is not an issue. Throughout the programming of this site, I&amp;rsquo;ve learned a lot about Hugo, the generator I am using to create this website. Currently there is no native way to implmenet dynamic scaling to images, but the internet hasn&amp;rsquo;t slept on this.&lt;/p&gt;
 
 &lt;p&gt;In the next week, I plan to implement one of these two gallery solutions to the site for a better viewing experience. A gallery will allow me to consolidate more work in one page, and strengthen the intention of a personal website as a hub for my work, rather than stretching content across different platforms and sites.&lt;/p&gt;
 
