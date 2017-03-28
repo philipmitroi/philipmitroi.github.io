@@ -12,6 +12,11 @@
   </url>
   
   <url>
+    <loc>http://philipmitroi.github.io/portfolio/daniel/</loc>
+    <lastmod>2017-03-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://philipmitroi.github.io/portfolio/mangolady/</loc>
     <lastmod>2017-03-21T00:00:00+00:00</lastmod>
   </url>
@@ -24,11 +29,6 @@
   <url>
     <loc>http://philipmitroi.github.io/portfolio/stasdt/</loc>
     <lastmod>2017-03-20T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://philipmitroi.github.io/portfolio/update1/</loc>
-    <lastmod>2017-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -107,12 +107,6 @@
   </url>
   
   <url>
-    <loc>http://philipmitroi.github.io/tags/blog/</loc>
-    <lastmod>2017-03-17T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://philipmitroi.github.io/tags/branden/</loc>
     <lastmod>2017-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -121,6 +115,12 @@
   <url>
     <loc>http://philipmitroi.github.io/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://philipmitroi.github.io/tags/daniel/</loc>
+    <lastmod>2017-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -204,12 +204,6 @@
   <url>
     <loc>http://philipmitroi.github.io/tags/trip/</loc>
     <lastmod>2017-03-04T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://philipmitroi.github.io/tags/updates/</loc>
-    <lastmod>2017-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
