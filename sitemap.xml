@@ -3,6 +3,11 @@
   
   <url>
     <loc>http://philipmitroi.github.io/portfolio/letmeshootyou/</loc>
+    <lastmod>2017-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://philipmitroi.github.io/portfolio/auroraborealis/</loc>
     <lastmod>2017-03-29T00:00:00+00:00</lastmod>
   </url>
   
@@ -107,6 +112,12 @@
   </url>
   
   <url>
+    <loc>http://philipmitroi.github.io/tags/aurora-borealis/</loc>
+    <lastmod>2017-03-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://philipmitroi.github.io/tags/branden/</loc>
     <lastmod>2017-03-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -138,7 +149,7 @@
   
   <url>
     <loc>http://philipmitroi.github.io/tags/landscape/</loc>
-    <lastmod>2017-03-04T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -162,7 +173,7 @@
   
   <url>
     <loc>http://philipmitroi.github.io/</loc>
-    <lastmod>2017-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -174,7 +185,7 @@
   
   <url>
     <loc>http://philipmitroi.github.io/portfolio/</loc>
-    <lastmod>2017-03-29T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-30T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -197,7 +208,7 @@
   
   <url>
     <loc>http://philipmitroi.github.io/tags/toronto/</loc>
-    <lastmod>2017-03-21T00:00:00+00:00</lastmod>
+    <lastmod>2017-03-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
